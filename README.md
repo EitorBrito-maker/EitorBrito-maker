@@ -1,4 +1,4 @@
-# Olá, eu sou o (Seu Nome)!
+# Olá, eu sou o Eitor!
 - Estudante de Desenvolvimento de Sistemas e maker
 - Focado em Python, C++(Arduino,Esp32 e IOT), HTML e CSS
 - Preparando-se para o mercado de tecnologia
