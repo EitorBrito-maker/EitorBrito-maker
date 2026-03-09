@@ -3,10 +3,12 @@
 - Focado em Python, C++(Arduino,Esp32 e IOT), HTML e CSS
 - Preparando-se para o mercado de tecnologia
 - Contato: tecnico.eitor@gmail.com
+---
 ## Sobre mim
 - Atualmente cursando **Técnico em Desenvolvimento de Sistemas**
 - Sempre aprendendo novas tecnologias e boas práticas de programação
 - Interesse especial em **projetos de controladores MIDI com arduino** e **projetos IOT com ESP32**
+---
 ## 📡 Tecnologias que estudo
 <div style="display: inline_block"><br>
 <img align="center" alt="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
@@ -18,13 +20,14 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
 <img align="center" alt="Csharp" height="40" width="40"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
-  
-## 📈 Estatísticas do GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EitorBrito-maker&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EitorBrito-maker&layout=compact)
-  
-## Como me encontrar
- 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-thebadge&logo=gmail&logoColor=white)](mailto:tecnico.eitor@gmail.com)
+
 ---
-*“Sempre aprendendo e evoluindo como desenvolvedor.”*
+
+  ## Como me encontrar
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-thebadge&logo=gmail&logoColor=white)](mailto:tecnico.eitor@gmail.com)
+
+---
+
+**“Sempre aprendendo e evoluindo como desenvolvedor.”**
+
+---
