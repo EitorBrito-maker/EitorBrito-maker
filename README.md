@@ -5,22 +5,27 @@
 - Contato: tecnico.eitor@gmail.com
 ---
 ## Sobre mim
+- **Técnico em Eletrônica** 
 - Atualmente cursando **Técnico em Desenvolvimento de Sistemas**
 - Sempre aprendendo novas tecnologias e boas práticas de programação
 - Interesse especial em **projetos de controladores MIDI com arduino** e **projetos IOT com ESP32**
 ---
 ## 📡 Tecnologias que estudo
 <div style="display: inline_block"><br>
-<img align="center" alt="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+<img align="center" alt="Python" height="40" width="40" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
 <img align="center" alt="HTML" height="40" width="40"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
 <img align="center" alt="CSS" height="40" width="40"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-<img align="center" alt="Java" height="40" width="40"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
 <img align="center" alt="Csharp" height="40" width="40"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
+<img align="center" alt="Arduino" height="40" width="40"
+src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg">
+<img align="center" alt="Esppressif ESP32" height="100" width="100"
+ src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Espressif_Logo.svg"
 
+  
 ---
 
   ## Como me encontrar
